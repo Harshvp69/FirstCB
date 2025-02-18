@@ -1,5 +1,3 @@
-Here is the **README.md** content in **plain text** format, so you can **copy and paste** it directly into GitHub.
-
 ---
 
 **FirstCB - LangChain Chatbot with OpenAI & Streamlit**  
